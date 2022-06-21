@@ -2,8 +2,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/Filza2/CVD23"><img src="https://c.top4top.io/p_23630b4j21.jpg" alt="Darkside"></a>
-
+  <a href="https://github.com/Filza2/CVD23"><img src="https://l.top4top.io/p_2363o1fh11.png" alt="Darkside"></a>
 </h1>
 
 <h4 align="center">A tool with attractive capabilities</h4>
@@ -24,7 +23,7 @@
 </p>
 
 
-![demo](img)
+![demo](https://c.top4top.io/p_23630b4j21.jpg)
 
 ### Features:
 - Terminal Controlor
