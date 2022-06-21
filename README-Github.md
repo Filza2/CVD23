@@ -61,4 +61,9 @@ $ sudo python3 CVD-23.py
 $ Just download it and run installer.py File 
 ```
 
-### CVD23 is Beta and for educational purposes only..
+### CVD23 is Beta and for educational purposes only ..
+
+```python
+Thank you for downloading our Tool
+```
+
