@@ -1,0 +1,8 @@
+socket
+datetime
+platform
+subprocess
+requests
+colorama
+time
+os
