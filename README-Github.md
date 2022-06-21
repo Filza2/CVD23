@@ -28,12 +28,19 @@
 ![demo](img)
 
 ### Features:
+- Terminal Controlor
+- File Stealer 
+- Spread
+- WebBrowse
+- Target informations
+- Message Sender
+- File Manger
+- File uploder [Linux to Linux , windows to Linux , {Linux to windows not supported yet !!} ]
+- Target CIPM 
+- Account Stealer
+- Screenshot
 
-- 
-- 
-- 
-- 
-- 
+#all details in README File
 
 ![save demo](img)
 
