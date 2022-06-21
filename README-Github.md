@@ -3,7 +3,7 @@
   <br>
   <a href="https://github.com/Filza2/CVD23"><img src="https://l.top4top.io/p_2363o1fh11.png" alt="Darkside"></a>
 </h1>
-<h4 align="center">A tool with attractive capabilities</h4>
+<h4 align="center">we all love sabotage don't worry</h4>
 <p align="center">
   <a href="http://python.org">
     <img src="https://img.shields.io/badge/python-v3-blue">
