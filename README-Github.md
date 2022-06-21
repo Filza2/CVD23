@@ -14,6 +14,9 @@
   <a href="https://www.microsoft.com/en-us/windows/">
     <img src="https://img.shields.io/badge/platform-Windows 10-blue">
   </a>
+  <a href="https://github.com/Filza2/CVD23">
+    <img src="https://img.shields.io/badge/version-Beta-lightgrey">
+  </a>
 </p>
 
 ![demo](https://c.top4top.io/p_23630b4j21.jpg)
