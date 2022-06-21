@@ -1,27 +1,21 @@
-# CVD23
-
+# CVD23 
+#Beta
 <h1 align="center">
   <br>
   <a href="https://github.com/Filza2/CVD23"><img src="https://l.top4top.io/p_2363o1fh11.png" alt="Darkside"></a>
 </h1>
-
 <h4 align="center">A tool with attractive capabilities</h4>
-
 <p align="center">
   <a href="http://python.org">
     <img src="https://img.shields.io/badge/python-v3-blue">
   </a>
-    
   <a href="https://www.kali.org/">
     <img src="https://img.shields.io/badge/platform-Linux-red">
   </a>
-  
   <a href="https://www.microsoft.com/en-us/windows/">
     <img src="https://img.shields.io/badge/platform-Windows 10-blue">
   </a>
-  
 </p>
-
 
 ![demo](https://c.top4top.io/p_23630b4j21.jpg)
 
