@@ -64,6 +64,6 @@ $ Just download it and run installer.py File
 ### CVD23 is Beta and for educational purposes only ..
 
 ```python
-Thank you for downloading our Tool
+print('Thank you for downloading our Tool')
 ```
 
