@@ -6,10 +6,10 @@
 <h4 align="center">we all love sabotage don't worry</h4>
 <p align="center">
   <a href="http://python.org">
-    <img src="https://img.shields.io/badge/python-v3-blue?&logo=python">
+    <img src="https://img.shields.io/badge/python-v3-green?&logo=python">
   </a>
   <a href="https://www.kali.org/">
-    <img src="https://img.shields.io/badge/platform-Linux-yellow?&logo=Linux">
+    <img src="https://img.shields.io/badge/platform-Linux-red?&logo=Linux">
   </a>
   <a href="https://www.microsoft.com/en-us/windows/">
     <img src="https://img.shields.io/badge/platform-Windows 10-blue?&logo=Windows">
