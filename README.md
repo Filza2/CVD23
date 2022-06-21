@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/python-v3-yellow?logoColor=yellow&logo=python">
   </a>
   <a href="https://www.kali.org/">
-    <img src="https://img.shields.io/badge/platform-Linux-red?logoColor=red&logo=Linux">
+    <img src="https://img.shields.io/badge/platform-Linux-green?logoColor=blue&logo=Linux">
   </a>
   <a href="https://www.microsoft.com/en-us/windows/">
     <img src="https://img.shields.io/badge/platform-Windows 10-blue?logoColor=blue&logo=Windows">
