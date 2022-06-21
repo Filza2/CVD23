@@ -53,3 +53,9 @@ $ sudo bash Linux-installer.sh
 $ python3 -m pip install -r requirments.txt
 $ sudo python3 CVD-23.py
 ```
+
+### Installation On Windows
+
+```bash
+$ Just download it and run installer.py File 
+```
