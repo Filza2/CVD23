@@ -18,10 +18,10 @@
     <img src="https://img.shields.io/badge/version-Beta-lightgrey">
   </a>
   <a href="https://t.me/TweakPY">
-    <img src="https://img.shields.io/badge/Telegram-Filza-blue">
+    <img src="https://img.shields.io/badge/Telegram-Filza-green">
   </a>
    <a href="https://t.me/vv1ck">
-    <img src="https://img.shields.io/badge/Telegram-Joker-red">
+    <img src="https://img.shields.io/badge/Telegram-Joker-green">
   </a>
 </p>
 
