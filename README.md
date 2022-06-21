@@ -17,6 +17,12 @@
   <a href="https://github.com/Filza2/CVD23">
     <img src="https://img.shields.io/badge/version-Beta-lightgrey">
   </a>
+  <a href="https://t.me/TweakPY">
+    <img src="https://img.shields.io/badge/Telegram-Filza-blue">
+  </a>
+   <a href="https://t.me/vv1ck">
+    <img src="https://img.shields.io/badge/Telegram-Joker-red">
+  </a>
 </p>
 
 ![demo](https://c.top4top.io/p_23630b4j21.jpg)
