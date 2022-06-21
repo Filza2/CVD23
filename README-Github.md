@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/Filza2/CVD23"><img src="img" alt="Darkside"></a>
+  <a href="https://github.com/Filza2/CVD23"><img src="https://b.top4top.io/p_2363bg8im1.jpg" alt="Darkside"></a>
 
 </h1>
 
