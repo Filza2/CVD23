@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/platform-Linux-green?logoColor=blue&logo=Linux">
   </a>
   <a href="https://www.microsoft.com/en-us/windows/">
-    <img src="https://img.shields.io/badge/platform-Windows 10-blue?logoColor=blue&logo=Windows">
+    <img src="https://img.shields.io/badge/platform-Windows 10-green?logoColor=blue&logo=Windows">
   </a>
   <a href="https://github.com/Filza2/CVD23">
     <img src="https://img.shields.io/badge/version-Beta-lightgrey?&logo=windowsterminal">
