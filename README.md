@@ -6,7 +6,7 @@
 <h4 align="center">we all love sabotage don't worry</h4>
 <p align="center">
   <a href="http://python.org">
-    <img src="https://img.shields.io/badge/python-v3-green?logoColor=yellow&logo=python">
+    <img src="https://img.shields.io/badge/python-v3-green?logoColor=blue&logo=python">
   </a>
   <a href="https://www.kali.org/">
     <img src="https://img.shields.io/badge/platform-Linux-green?logoColor=blue&logo=Linux">
