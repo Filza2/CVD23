@@ -1,5 +1,4 @@
 # CVD23 
-#Beta
 <h1 align="center">
   <br>
   <a href="https://github.com/Filza2/CVD23"><img src="https://l.top4top.io/p_2363o1fh11.png" alt="Darkside"></a>
@@ -58,3 +57,5 @@ $ sudo python3 CVD-23.py
 ```bash
 $ Just download it and run installer.py File 
 ```
+
+### CVD23 is Beta and for educational purposes only..
