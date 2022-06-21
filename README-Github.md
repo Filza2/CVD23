@@ -12,16 +12,15 @@
   <a href="http://python.org">
     <img src="https://img.shields.io/badge/python-v3-blue">
   </a>
-  
-  <a href="">
-    <img src="https://img.shields.io/badge/"
-         alt="php">
-  </a>
-
-  
-  <a href="https://www.microsoft.com/de-de/">
+    
+  <a href="https://www.kali.org/">
     <img src="https://img.shields.io/badge/platform-Linux-red">
   </a>
+  
+  <a href="https://www.microsoft.com/en-us/windows/">
+    <img src="https://img.shields.io/badge/platform-Windows 10-blue">
+  </a>
+  
 </p>
 
 
@@ -40,7 +39,7 @@
 - Account Stealer
 - Screenshot
 
-#all details in README File
+--> All details in README File
 
 ![save demo](img)
 
