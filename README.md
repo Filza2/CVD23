@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/platform-Windows 10-blue?&logo=Windows">
   </a>
   <a href="https://github.com/Filza2/CVD23">
-    <img src="https://img.shields.io/badge/version-Beta-lightgrey?&logo=amazonec2">
+    <img src="https://img.shields.io/badge/version-Beta-lightgrey?&logo=windowsterminal">
   </a>
   <br></br>
   <a href="https://t.me/TweakPY">
