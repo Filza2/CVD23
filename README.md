@@ -1,7 +1,7 @@
 # CVD23 
 <h1 align="center">
   <br>
-  <a href="https://github.com/Filza2/CVD23"><img src="https://l.top4top.io/p_2363o1fh11.png" alt="Darkside"></a>
+  <a href="https://github.com/Filza2/CVD23"><img src="https://raw.githubusercontent.com/Filza2/CVD23/main/imgs/coffee.png" alt="Darkside"></a>
 </h1>
 <h4 align="center">we all love sabotage don't worry</h4>
 <p align="center">
