@@ -26,7 +26,7 @@
   </a>
 </p>
 
-![demo](https://c.top4top.io/p_23630b4j21.jpg)
+![demo](https://raw.githubusercontent.com/Filza2/CVD23/main/imgs/home2.jpg)
 
 ### Features:
 - Terminal Controlor
@@ -39,7 +39,7 @@
 
 --> All details in Instructions File
 
-![save demo](https://h.top4top.io/p_2363m4qhr1.jpg)
+![save demo](https://raw.githubusercontent.com/Filza2/CVD23/main/imgs/home.jpg)
 
 
 ### Operating Systems Tested
